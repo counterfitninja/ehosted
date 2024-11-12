@@ -10,17 +10,31 @@
     },
     "items": [
         {
+            "id": "https://www.ehosted.co.uk/test.html",
+            "url": "https://www.ehosted.co.uk/test.html",
+            "title": "test",
+            "summary": "&lt;source src=\"https://shattereddisk.github.io/rickroll/rickroll.mp4\" type=\"video/mp4",
+            "content_html": "<p><video loading=\"lazy\" width=\"300\" height=\"150\" controls=\"controls\" autoplay=\"autoplay\" name=\"media\">\n\n&lt;source src=\"https://shattereddisk.github.io/rickroll/rickroll.mp4\" type=\"video/mp4\n</video></p>",
+            "author": {
+                "name": "Dave"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-12T20:01:12+00:00",
+            "date_modified": "2024-11-12T20:02:49+00:00"
+        },
+        {
             "id": "https://www.ehosted.co.uk/happy-birthday.html",
             "url": "https://www.ehosted.co.uk/happy-birthday.html",
             "title": "Happy Birthday ",
-            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"1200\" height=\"673\" src=\"https://shattereddisk.github.io/rickroll/rickroll.mp4\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.ehosted.co.uk/media/posts/12/Picture1-2.png\" alt=\"\" width=\"1040\" height=\"1558\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://www.ehosted.co.uk/media/posts/12/responsive/Picture1-2-xs.png 640w ,https://www.ehosted.co.uk/media/posts/12/responsive/Picture1-2-sm.png 768w ,https://www.ehosted.co.uk/media/posts/12/responsive/Picture1-2-md.png 1024w ,https://www.ehosted.co.uk/media/posts/12/responsive/Picture1-2-lg.png 1366w ,https://www.ehosted.co.uk/media/posts/12/responsive/Picture1-2-xl.png 1600w ,https://www.ehosted.co.uk/media/posts/12/responsive/Picture1-2-2xl.png 1920w\"></figure>",
+            "content_html": "<p><video loading=\"lazy\" width=\"300\" height=\"150\" controls=\"controls\" autoplay=\"autoplay\">\n  <source src=\"https://shattereddisk.github.io/rickroll/rickroll.mp4\" type=\"video/mp4\" />\n  </video></p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.ehosted.co.uk/media/posts/12/Picture1-2.png\" alt=\"\" width=\"1040\" height=\"1558\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://www.ehosted.co.uk/media/posts/12/responsive/Picture1-2-xs.png 640w ,https://www.ehosted.co.uk/media/posts/12/responsive/Picture1-2-sm.png 768w ,https://www.ehosted.co.uk/media/posts/12/responsive/Picture1-2-md.png 1024w ,https://www.ehosted.co.uk/media/posts/12/responsive/Picture1-2-lg.png 1366w ,https://www.ehosted.co.uk/media/posts/12/responsive/Picture1-2-xl.png 1600w ,https://www.ehosted.co.uk/media/posts/12/responsive/Picture1-2-2xl.png 1920w\"></figure>",
             "author": {
                 "name": "Dave"
             },
             "tags": [
             ],
             "date_published": "2024-11-12T13:23:54+00:00",
-            "date_modified": "2024-11-12T19:54:08+00:00"
+            "date_modified": "2024-11-12T20:31:38+00:00"
         },
         {
             "id": "https://www.ehosted.co.uk/cloud.html",
@@ -125,20 +139,6 @@
             ],
             "date_published": "2022-09-07T16:40:19+01:00",
             "date_modified": "2022-09-07T16:40:19+01:00"
-        },
-        {
-            "id": "https://www.ehosted.co.uk/technical-background.html",
-            "url": "https://www.ehosted.co.uk/technical-background.html",
-            "title": "Technical Background",
-            "summary": "I work as a Cloud Architect helping application work better in a cloud world. My background is Microsoft so i specialise in Microsoft Azure, but i have experience in AWS, G-Cloud and Oracle Cloud. This blog is not specifically about my work, but is a&hellip;",
-            "content_html": "<p>I work as a Cloud Architect helping application work better in a cloud world. My background is Microsoft so i specialise in Microsoft Azure, but i have experience in AWS, G-Cloud and Oracle Cloud. </p>\n<p>This blog is not specifically about my work, but is a useful place for me to either write about my technical findings, or more than likley how my technical skills intersect with my hobbies. </p>",
-            "author": {
-                "name": "Dave"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-09-07T16:32:45+01:00",
-            "date_modified": "2022-09-07T16:32:45+01:00"
         }
     ]
 }
