@@ -1,14 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Technical Fun</title>
+    <title>Happy Birthday</title>
     <link href="https://www.ehosted.co.uk/feed.xml" rel="self" />
     <link href="https://www.ehosted.co.uk" />
-    <updated>2024-04-08T10:43:36+01:00</updated>
+    <updated>2024-11-12T14:09:12+00:00</updated>
     <author>
         <name>Dave</name>
     </author>
     <id>https://www.ehosted.co.uk</id>
 
+    <entry>
+        <title>Happy Birthday </title>
+        <author>
+            <name>Dave</name>
+        </author>
+        <link href="https://www.ehosted.co.uk/happy-birthday.html"/>
+        <id>https://www.ehosted.co.uk/happy-birthday.html</id>
+
+        <updated>2024-11-12T13:23:54+00:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image align-center"><img loading="lazy"  src="https://www.ehosted.co.uk/media/posts/12//Picture1.png" alt="" width="1040" height="1558" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://www.ehosted.co.uk/media/posts/12//responsive/Picture1-xs.png 640w ,https://www.ehosted.co.uk/media/posts/12//responsive/Picture1-sm.png 768w ,https://www.ehosted.co.uk/media/posts/12//responsive/Picture1-md.png 1024w ,https://www.ehosted.co.uk/media/posts/12//responsive/Picture1-lg.png 1366w ,https://www.ehosted.co.uk/media/posts/12//responsive/Picture1-xl.png 1600w ,https://www.ehosted.co.uk/media/posts/12//responsive/Picture1-2xl.png 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Cloud</title>
         <author>
@@ -41,7 +57,7 @@
         <updated>2022-09-07T16:42:21+01:00</updated>
             <summary>
                 <![CDATA[
-                    Cloudflare for those that dont know is a SAAS based service that provides Web Applicaiton Firewall protection and DDOS protection.
+                    Cloudflare for those that dont know is a SAAS based service that provides Web Applicaiton Firewall protection and DDOS protection. They are the world leader in protecting sites and they offer a free plan that can be used by creators. In addition to this they&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -86,7 +102,7 @@
         <updated>2022-09-07T16:41:21+01:00</updated>
             <summary>
                 <![CDATA[
-                    I have a Raspberry Pi Model 3b and a Model 4. These are the type of computing devices that you&hellip;
+                    I have a Raspberry Pi Model 3b and a Model 4. These are the type of computing devices that you can collect for no reason what so ever. However i have now found a use for both and are running in my office performaing their&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -141,7 +157,7 @@
             <![CDATA[
                 <p>Its just a simple Series X. Nothing more or less. I occasionally play on this if i have time</p>
 <p> </p>
-<p>.<figure class="post__image"><img loading="lazy"  src="https://www.ehosted.co.uk/media/posts/4/xbox-series-x-db-1252x800-1576214218.jpg" alt="" width="1252" height="800" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.ehosted.co.uk/media/posts/4/responsive/xbox-series-x-db-1252x800-1576214218-xs.jpg 300w ,https://www.ehosted.co.uk/media/posts/4/responsive/xbox-series-x-db-1252x800-1576214218-sm.jpg 480w ,https://www.ehosted.co.uk/media/posts/4/responsive/xbox-series-x-db-1252x800-1576214218-md.jpg 768w"></figure>
+<p>.<figure class="post__image"><img loading="lazy"  src="https://www.ehosted.co.uk/media/posts/4/xbox-series-x-db-1252x800-1576214218.jpg" alt="" width="1252" height="800" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://www.ehosted.co.uk/media/posts/4/responsive/xbox-series-x-db-1252x800-1576214218-xs.jpg 640w ,https://www.ehosted.co.uk/media/posts/4/responsive/xbox-series-x-db-1252x800-1576214218-sm.jpg 768w ,https://www.ehosted.co.uk/media/posts/4/responsive/xbox-series-x-db-1252x800-1576214218-md.jpg 1024w ,https://www.ehosted.co.uk/media/posts/4/responsive/xbox-series-x-db-1252x800-1576214218-lg.jpg 1366w ,https://www.ehosted.co.uk/media/posts/4/responsive/xbox-series-x-db-1252x800-1576214218-xl.jpg 1600w ,https://www.ehosted.co.uk/media/posts/4/responsive/xbox-series-x-db-1252x800-1576214218-2xl.jpg 1920w"></figure>
 <p> </p>
             ]]>
         </content>
@@ -157,39 +173,13 @@
         <updated>2022-09-07T16:32:45+01:00</updated>
             <summary>
                 <![CDATA[
-                    I work as a Cloud Architect helping application work better in a cloud world. My background is Microsoft so i&hellip;
+                    I work as a Cloud Architect helping application work better in a cloud world. My background is Microsoft so i specialise in Microsoft Azure, but i have experience in AWS, G-Cloud and Oracle Cloud. This blog is not specifically about my work, but is a&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>I work as a Cloud Architect helping application work better in a cloud world. My background is Microsoft so i specialise in Microsoft Azure, but i have experience in AWS, G-Cloud and Oracle Cloud. </p>
 <p>This blog is not specifically about my work, but is a useful place for me to either write about my technical findings, or more than likley how my technical skills intersect with my hobbies. </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Bedrock Server</title>
-        <author>
-            <name>Dave</name>
-        </author>
-        <link href="https://www.ehosted.co.uk/bedrock-server.html"/>
-        <id>https://www.ehosted.co.uk/bedrock-server.html</id>
-
-        <updated>2022-09-01T11:57:17+01:00</updated>
-            <summary>
-                <![CDATA[
-                    This is hosted in my office (Read Converted Garedn Shed) and is an old Dell Inspirion 13 laptop repurposed with&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>This is hosted in my office (Read Converted Garedn Shed)  and is an old Dell Inspirion 13 laptop repurposed with Windows 2022 Server and run Bedrock Dedicated Server ( Which you can download <a href="https://www.minecraft.net/en-us/download/server/bedrock" target="_blank" rel="noopener noreferrer">here</a> ) </p>
-<figure class="post__image align-center"><img loading="lazy"  src="https://www.ehosted.co.uk/media/posts/2/PXL_20220901_100256048.MP2569.jpg" alt="" width="4080" height="3072" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.ehosted.co.uk/media/posts/2/responsive/PXL_20220901_100256048.MP2569-xs.jpg 300w ,https://www.ehosted.co.uk/media/posts/2/responsive/PXL_20220901_100256048.MP2569-sm.jpg 480w ,https://www.ehosted.co.uk/media/posts/2/responsive/PXL_20220901_100256048.MP2569-md.jpg 768w"></figure>
-<p>The Spec of the machine has 16GB Ram and and older Intel I5. </p>
-<p>The Bedrock Server is pretty much a vanilla install with a couple of additions. The first is a quality of life installation of<a href="https://foxynotail.com/add-ons/ops/" target="_blank" rel="noopener noreferrer"> One Player Sleep from Foxy No Tail</a> and <a href="https://foxynotail.com/software/mcbe-play/" target="_blank" rel="noopener noreferrer">Foxys Bedrock Server Software</a> , with  some script for backups and map building (<a href="https://unmined.net/" target="_blank" rel="noopener noreferrer">Unmined.net</a>). </p>
-<p>Backup are done through the Windows Drive Snapshot feature that allows Windows to save change only data, thus keeping backups smaller and allow 15 mins snapshots to be taken. </p>
-<p>Mapping is an important part of any Minecraft server and Bedrock has suffered from a lack of tooling to automate this process. Unmined fixes this to some degree as it allows both Java and Bedrock Servers to either be viewed through a GUI or can produce a Web based map for deployment via a Web server. </p>
-<p>Once Unmined has created its map this uploaded to GitHub and then pushed to Cloudflares Static Website host which offers free Site hosting for static files. This process can be seen in more details on the GitHub Page. </p>
             ]]>
         </content>
     </entry>

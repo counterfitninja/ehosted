@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Technical Fun",
+    "title": "Happy Birthday",
     "description": "",
     "home_page_url": "https://www.ehosted.co.uk",
     "feed_url": "https://www.ehosted.co.uk/feed.json",
@@ -9,6 +9,19 @@
         "name": "Dave"
     },
     "items": [
+        {
+            "id": "https://www.ehosted.co.uk/happy-birthday.html",
+            "url": "https://www.ehosted.co.uk/happy-birthday.html",
+            "title": "Happy Birthday ",
+            "content_html": "<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://www.ehosted.co.uk/media/posts/12//Picture1.png\" alt=\"\" width=\"1040\" height=\"1558\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://www.ehosted.co.uk/media/posts/12//responsive/Picture1-xs.png 640w ,https://www.ehosted.co.uk/media/posts/12//responsive/Picture1-sm.png 768w ,https://www.ehosted.co.uk/media/posts/12//responsive/Picture1-md.png 1024w ,https://www.ehosted.co.uk/media/posts/12//responsive/Picture1-lg.png 1366w ,https://www.ehosted.co.uk/media/posts/12//responsive/Picture1-xl.png 1600w ,https://www.ehosted.co.uk/media/posts/12//responsive/Picture1-2xl.png 1920w\"></figure>",
+            "author": {
+                "name": "Dave"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-12T13:23:54+00:00",
+            "date_modified": "2024-11-12T14:09:12+00:00"
+        },
         {
             "id": "https://www.ehosted.co.uk/cloud.html",
             "url": "https://www.ehosted.co.uk/cloud.html",
@@ -27,7 +40,7 @@
             "id": "https://www.ehosted.co.uk/cloudflare.html",
             "url": "https://www.ehosted.co.uk/cloudflare.html",
             "title": "Cloudflare ",
-            "summary": "Cloudflare for those that dont know is a SAAS based service that provides Web Applicaiton Firewall protection and DDOS protection.",
+            "summary": "Cloudflare for those that dont know is a SAAS based service that provides Web Applicaiton Firewall protection and DDOS protection. They are the world leader in protecting sites and they offer a free plan that can be used by creators. In addition to this they&hellip;",
             "content_html": "<p>Cloudflare for those that dont know is a SAAS based service that provides Web Applicaiton Firewall protection and DDOS protection. They are the world leader in protecting sites and they offer a free plan that can be used by creators. In addition to this they offer a product call Cloudfalre pages which is a static web page storage that is create through GitHub and then deployed through CI/CD</p>\n<p>Cloudflare also offers DNS and Domain registration at cost pricing and makes managing domains simples and easy to do. </p>",
             "author": {
                 "name": "Dave"
@@ -65,7 +78,7 @@
             "id": "https://www.ehosted.co.uk/raspberry-pi.html",
             "url": "https://www.ehosted.co.uk/raspberry-pi.html",
             "title": "Raspberry Pi",
-            "summary": "I have a Raspberry Pi Model 3b and a Model 4. These are the type of computing devices that you&hellip;",
+            "summary": "I have a Raspberry Pi Model 3b and a Model 4. These are the type of computing devices that you can collect for no reason what so ever. However i have now found a use for both and are running in my office performaing their&hellip;",
             "content_html": "<p>I have a Raspberry Pi Model 3b and a Model 4. These are the type of computing devices that you can collect for no reason what so ever. However i have now found a use for both and are running in my office performaing their various functions. </p>\n<p>The RPi3b does multi duty in that it run a PiHole DNS protection system and also a Web host for small scale web hosting. I have just moved over to NGINX as the Web server as this allows easy Hosting and also straight forward Proxy to a different internal server. </p>\n<p>The reason for this is that the RPi4 hosts a Java Minecraft Server and a controle panel call Pterodactyl. Pterodcactyl, once installed allows quick and easy creation of games servers through the use of Eggs. It is possible to have multiple users assigned to a server and allows that server to be carved up into multiple servers running different worlds. </p>\n<p>Each Server is run under Docker and is all handles by the Pterodactyl software and provices a nice user interface to manage the server and upload Add ons, much like DynMap. </p>\n<p>Phantom - A Minecraft Proxy solution to allow devices like the Xbox, Switch and other devices that dont allow the user to manually add Microsoft servers for them to show up on the LAN screen as if they were hosted on the local LAN.  </p>",
             "author": {
                 "name": "Dave"
@@ -104,7 +117,7 @@
             "url": "https://www.ehosted.co.uk/xbox-series-x.html",
             "title": "Xbox Series X",
             "summary": "Its just a simple Series X. Nothing more or less. I occasionally play on this if i have time .",
-            "content_html": "<p>Its just a simple Series X. Nothing more or less. I occasionally play on this if i have time</p>\n<p> </p>\n<p>.<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.ehosted.co.uk/media/posts/4/xbox-series-x-db-1252x800-1576214218.jpg\" alt=\"\" width=\"1252\" height=\"800\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.ehosted.co.uk/media/posts/4/responsive/xbox-series-x-db-1252x800-1576214218-xs.jpg 300w ,https://www.ehosted.co.uk/media/posts/4/responsive/xbox-series-x-db-1252x800-1576214218-sm.jpg 480w ,https://www.ehosted.co.uk/media/posts/4/responsive/xbox-series-x-db-1252x800-1576214218-md.jpg 768w\"></figure>\n<p> </p>",
+            "content_html": "<p>Its just a simple Series X. Nothing more or less. I occasionally play on this if i have time</p>\n<p> </p>\n<p>.<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.ehosted.co.uk/media/posts/4/xbox-series-x-db-1252x800-1576214218.jpg\" alt=\"\" width=\"1252\" height=\"800\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://www.ehosted.co.uk/media/posts/4/responsive/xbox-series-x-db-1252x800-1576214218-xs.jpg 640w ,https://www.ehosted.co.uk/media/posts/4/responsive/xbox-series-x-db-1252x800-1576214218-sm.jpg 768w ,https://www.ehosted.co.uk/media/posts/4/responsive/xbox-series-x-db-1252x800-1576214218-md.jpg 1024w ,https://www.ehosted.co.uk/media/posts/4/responsive/xbox-series-x-db-1252x800-1576214218-lg.jpg 1366w ,https://www.ehosted.co.uk/media/posts/4/responsive/xbox-series-x-db-1252x800-1576214218-xl.jpg 1600w ,https://www.ehosted.co.uk/media/posts/4/responsive/xbox-series-x-db-1252x800-1576214218-2xl.jpg 1920w\"></figure>\n<p> </p>",
             "author": {
                 "name": "Dave"
             },
@@ -117,7 +130,7 @@
             "id": "https://www.ehosted.co.uk/technical-background.html",
             "url": "https://www.ehosted.co.uk/technical-background.html",
             "title": "Technical Background",
-            "summary": "I work as a Cloud Architect helping application work better in a cloud world. My background is Microsoft so i&hellip;",
+            "summary": "I work as a Cloud Architect helping application work better in a cloud world. My background is Microsoft so i specialise in Microsoft Azure, but i have experience in AWS, G-Cloud and Oracle Cloud. This blog is not specifically about my work, but is a&hellip;",
             "content_html": "<p>I work as a Cloud Architect helping application work better in a cloud world. My background is Microsoft so i specialise in Microsoft Azure, but i have experience in AWS, G-Cloud and Oracle Cloud. </p>\n<p>This blog is not specifically about my work, but is a useful place for me to either write about my technical findings, or more than likley how my technical skills intersect with my hobbies. </p>",
             "author": {
                 "name": "Dave"
@@ -126,20 +139,6 @@
             ],
             "date_published": "2022-09-07T16:32:45+01:00",
             "date_modified": "2022-09-07T16:32:45+01:00"
-        },
-        {
-            "id": "https://www.ehosted.co.uk/bedrock-server.html",
-            "url": "https://www.ehosted.co.uk/bedrock-server.html",
-            "title": "Bedrock Server",
-            "summary": "This is hosted in my office (Read Converted Garedn Shed) and is an old Dell Inspirion 13 laptop repurposed with&hellip;",
-            "content_html": "<p>This is hosted in my office (Read Converted Garedn Shed)  and is an old Dell Inspirion 13 laptop repurposed with Windows 2022 Server and run Bedrock Dedicated Server ( Which you can download <a href=\"https://www.minecraft.net/en-us/download/server/bedrock\" target=\"_blank\" rel=\"noopener noreferrer\">here</a> ) </p>\n<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://www.ehosted.co.uk/media/posts/2/PXL_20220901_100256048.MP2569.jpg\" alt=\"\" width=\"4080\" height=\"3072\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.ehosted.co.uk/media/posts/2/responsive/PXL_20220901_100256048.MP2569-xs.jpg 300w ,https://www.ehosted.co.uk/media/posts/2/responsive/PXL_20220901_100256048.MP2569-sm.jpg 480w ,https://www.ehosted.co.uk/media/posts/2/responsive/PXL_20220901_100256048.MP2569-md.jpg 768w\"></figure>\n<p>The Spec of the machine has 16GB Ram and and older Intel I5. </p>\n<p>The Bedrock Server is pretty much a vanilla install with a couple of additions. The first is a quality of life installation of<a href=\"https://foxynotail.com/add-ons/ops/\" target=\"_blank\" rel=\"noopener noreferrer\"> One Player Sleep from Foxy No Tail</a> and <a href=\"https://foxynotail.com/software/mcbe-play/\" target=\"_blank\" rel=\"noopener noreferrer\">Foxys Bedrock Server Software</a> , with  some script for backups and map building (<a href=\"https://unmined.net/\" target=\"_blank\" rel=\"noopener noreferrer\">Unmined.net</a>). </p>\n<p>Backup are done through the Windows Drive Snapshot feature that allows Windows to save change only data, thus keeping backups smaller and allow 15 mins snapshots to be taken. </p>\n<p>Mapping is an important part of any Minecraft server and Bedrock has suffered from a lack of tooling to automate this process. Unmined fixes this to some degree as it allows both Java and Bedrock Servers to either be viewed through a GUI or can produce a Web based map for deployment via a Web server. </p>\n<p>Once Unmined has created its map this uploaded to GitHub and then pushed to Cloudflares Static Website host which offers free Site hosting for static files. This process can be seen in more details on the GitHub Page. </p>",
-            "author": {
-                "name": "Dave"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-09-01T11:57:17+01:00",
-            "date_modified": "2022-09-07T16:12:27+01:00"
         }
     ]
 }
